@@ -31,4 +31,4 @@ The calculations for this story were done in R and are available at [analysis.ip
 
 ## Licensing
 
-All code in this repository is available under the GNU General Public License v3.0. The data has been made public by the entities described above.
+All code in this repository is available under the GNU General Public License v3.0. The data in the [`input/`]() directory has been made public by the entities described above.
