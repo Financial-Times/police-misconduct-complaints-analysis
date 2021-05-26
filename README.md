@@ -26,7 +26,7 @@ For more information, see the "Notes on the raw data" section in the notebooks f
 
 ## Analysis
 
-The calculations for this story were done in R and are available at [analysis.ipynb]().
+The FT's calculations for this story were done in R and are available at [analysis.ipynb]().
 
 
 ## Licensing
