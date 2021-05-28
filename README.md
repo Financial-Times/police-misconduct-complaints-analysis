@@ -22,7 +22,7 @@ The cities' data cannot be directly compared because each municipality records a
 | NYC 	| February 2021 	|  	|  	|  	| x 	| x 	| x 	|
 | Philadelphia | March 2021 	| x 	| n/a* 	|  	| x 	| x 	| x 	|
 
-* In Philadelphia, the vast majority of citizen complaints are investigated by the police department's Internal Affairs Bureau rather than a civilian review agency. The data we use for Philadelphia are IAB-investigated complaints.
+\*In Philadelphia, the vast majority of citizen complaints are investigated by the police department's Internal Affairs Bureau rather than a civilian review agency. The data we use for Philadelphia are IAB-investigated complaints.
 
 For more information, see the "Notes on the raw data" section in the notebooks for each city in the [`cleaning/`](https://github.com/Financial-Times/police-misconduct-complaints-analysis/tree/main/cleaning) directory. The cleaned data are saved in the [`output/`](https://github.com/Financial-Times/police-misconduct-complaints-analysis/tree/main/output) directory.
 
